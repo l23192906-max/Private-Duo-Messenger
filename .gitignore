@@ -5,6 +5,12 @@ dist
 tmp
 out-tsc
 *.tsbuildinfo
+/data/
+/android/.gradle/
+/android/local.properties
+/android/**/build/
+/android/.idea/
+/generated-artifacts/
 .expo
 .expo-shared
 .next

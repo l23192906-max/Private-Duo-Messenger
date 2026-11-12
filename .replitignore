@@ -3,3 +3,7 @@
 
 # No need to store the pnpm store twice.
 .local
+/android/.gradle/
+/android/**/build/
+/android/local.properties
+/generated-artifacts/
